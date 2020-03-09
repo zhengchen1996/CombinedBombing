@@ -1,0 +1,22 @@
+{
+    "target": {
+        "phone": "",
+        "name": "",
+        "email": "",
+        "address": "",
+        "comment": ""
+    },
+    "attack": {
+        "times": 6,
+        "time": "0 2 * * * *",
+        "web_type": "baidu_lxb",
+        "task_type": "call", // "comment"
+        "interval": 300000
+    },
+    "chromium": {
+        "slowMo": 100,
+        "timeout": 30000,
+        "devtools": false,
+
+    }
+}
