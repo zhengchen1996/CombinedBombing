@@ -22,7 +22,7 @@
 #### 使用教程
 - 下载
 ```sh
-git clone https://github.com/aqiongbei/bomer.git
+git clone https://github.com/zhengchen1996/CombinedBombing.git
 ```
 
 - 安装依赖
